@@ -16,3 +16,5 @@
 
 
 
+<img width="366" alt="sc1" src="https://user-images.githubusercontent.com/87227143/165716858-14227b58-131a-49a4-9b59-5b5cd3f25ea2.PNG">
+<img width="365" alt="sc2" src="https://user-images.githubusercontent.com/87227143/165716884-c3cc3994-da6c-4e37-a251-2cf4f28f662e.PNG">
